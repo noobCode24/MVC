@@ -1,0 +1,19 @@
+khi click vào nút xác nhân
++ xác nhận bạn đã đăng nhập hay chưa
+-> nếu chưa
++ hiển thị form đăng nhập tài khoản và mật khẩu. nếu chưa có thì phải đăng ký, chức năng đăng nhập , đăng ký, quên mật khẩu...
+- Sau khi hoàn thiền sẽ reload về lại trang đặt vé tiến hành như bình thường 
+-> Nếu đăng nhập rồi thì sẽ tiến đến trang tiếp theo
+
+thông tin database sẽ lưu là :
++ tên đăng nhập 
++ vé: tất cả loại vé đã chọn 
++ tổng số lượng vé của cả 2
++ số tiền
++ thời gian đặt vé
+
+
+
+***backend
+
+thêm sửa xoá thông tin loại thẻ. co hinh anh
